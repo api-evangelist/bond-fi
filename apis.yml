@@ -1,0 +1,40 @@
+aid: bond-fi
+url: https://raw.githubusercontent.com/api-evangelist/bond-fi/refs/heads/main/apis.yml
+name: Bond
+kind: company
+description: >-
+  Bond Financial Technologies was an embedded-finance platform that offered
+  APIs for card issuing (Bond Issuing), money movement (Bond Pay), deposit
+  accounts (Bond Banking), and credit underwriting (Bond Credit) to brands
+  and fintechs. Bond was acquired by FIS (Fidelity National Information
+  Services) in 2023 and its product surface has been folded into Atelio by
+  FIS at atelio.com. The original Bond developer portal and API surface at
+  bond.tech is no longer the primary access path; new partners are routed to
+  the Atelio platform. This is an honest historical record.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Embedded Finance
+  - Cards
+  - Issuing
+  - Payments
+  - Banking
+  - Acquired
+  - Historical
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://bond.tech/
+  - type: Successor
+    url: https://atelio.com/
+  - type: ParentCompany
+    url: https://www.fisglobal.com/
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/bond-fintech
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/bond-financial-technologies
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
