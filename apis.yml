@@ -11,7 +11,7 @@ description: >-
   FIS at atelio.com. The original Bond developer portal and API surface at
   bond.tech is no longer the primary access path; new partners are routed to
   the Atelio platform. This is an honest historical record.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Embedded Finance
   - Cards
