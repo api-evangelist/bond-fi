@@ -25,6 +25,10 @@ modified: '2026-05-23'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: TrustCenter
+    url: security/bond-fi-trust-center.yml
+  - type: DomainSecurity
+    url: security/bond-fi-domain-security.yml
   - type: Website
     url: https://bond.tech/
   - type: Successor
